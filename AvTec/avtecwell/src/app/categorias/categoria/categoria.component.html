@@ -1,0 +1,24 @@
+<form #form="ngForm" (submit)="onSubmit(form)">
+    
+    <input type="hidden" readonly #idCategoria="ngModel" [(ngModel)]="service.formData.idCategoria" class="form-control" name="idCategoria" required>
+    
+    <div class="form-group">
+        <label>DESCRIÇÃO</label>
+        <input type="text" #descricao="ngModel" [(ngModel)]="service.formData.descricao" class="form-control" name="descricao" required>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-md-8">
+            <label>SIGLA</label>
+            <input type="text" #sigla="ngModel" [(ngModel)]="service.formData.sigla" class="form-control" required name="sigla">
+        </div>
+        <div class="form-group col-md-4">
+            <label>Ativo</label>
+            <input type="checkbox" #ativo="ngModel" [(ngModel)]="service.formData.ativo" class="form-control" name="ativo">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" [disabled]="form.invalid" class="btn btn-lg btn-info btn-block button">Save</button>
+    </div>
+</form>

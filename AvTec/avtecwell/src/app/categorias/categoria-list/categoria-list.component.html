@@ -1,0 +1,10 @@
+<table class="table table-hover">
+    <tr *ngFor="let cat of service.categorias">
+        <td>{{cat.idCategoria}}</td>
+        <td>{{cat.descricao}}</td>
+        <td>{{cat.sigla}}</td>
+        <td>{{cat.ativo}}</td>
+        <td><button (click)="Edit(cat)" class="btn btn-sm btn-warning button">Edit</button></td>
+        <td><button (click)="Delete(cat)" class="btn btn-sm btn-danger button">Delete</button></td>
+    </tr>
+</table>

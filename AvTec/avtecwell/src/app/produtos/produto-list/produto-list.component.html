@@ -1,0 +1,14 @@
+<table class="table table-hover">
+    <tr *ngFor="let p of service.produtos">
+        <td>{{p.idProduto}}</td>
+        <td>{{p.descricao}}</td>
+        <td>{{p.categoria.descricao}}</td>
+        <td>{{p.sigla}}</td>
+        <td>{{p.ativo}}</td>
+        <td>{{p.sku}}</td>
+        <td>{{p.marca}}</td>
+        <td>{{p.modelo}}</td>
+        <td><button (click)="Edit(p)" class="btn btn-sm btn-warning button">Edit</button></td>
+        <td><button (click)="Delete(p)" class="btn btn-sm btn-danger button">Delete</button></td>
+    </tr>
+</table>

@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+input.ng-touched.ng-invalid{
+    border-color: #dc3545;
+}
+div.validation-error{
+    width: 100%;
+    margin-top: .25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+html, body, table { height: 100%; }
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    
+    text-align: center;
+
+    background: #599acf;
+    background: -moz-linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
+    background: -webkit-linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
+    background: linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#599acf', endColor='#b1b0b9')
+}
+
+button{
+    cursor: pointer;
+}
+
+.title{
+    font-family: 'Dancing Script', cursive;
+    color: #fff;
+    font-size: 4em;
+    text-shadow: 3px 5px #000;
+}
+
+.button{
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1em;
+}
