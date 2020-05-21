@@ -1,0 +1,3 @@
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp3.1\AvaliacaoTec_APICore.Business.csprojAssemblyReference.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp3.1\AvaliacaoTec_APICore.Business.AssemblyInfoInputs.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp3.1\AvaliacaoTec_APICore.Business.AssemblyInfo.cs

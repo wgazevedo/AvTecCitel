@@ -1,0 +1,13 @@
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.deps.json
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Library.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Library.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.csprojAssemblyReference.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.AssemblyInfoInputs.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.AssemblyInfo.cs
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.csproj.CopyComplete
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.pdb

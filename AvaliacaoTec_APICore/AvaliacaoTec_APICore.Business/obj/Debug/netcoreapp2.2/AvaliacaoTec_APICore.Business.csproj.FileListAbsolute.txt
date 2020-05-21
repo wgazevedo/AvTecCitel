@@ -1,0 +1,13 @@
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.deps.json
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Library.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\bin\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Library.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.csprojAssemblyReference.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.AssemblyInfoInputs.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.AssemblyInfo.cs
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.csproj.CopyComplete
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Business\obj\Debug\netcoreapp2.2\AvaliacaoTec_APICore.Business.pdb

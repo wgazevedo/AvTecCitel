@@ -1,0 +1,8 @@
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.deps.json
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.csprojAssemblyReference.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.AssemblyInfoInputs.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.AssemblyInfo.cs
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Library\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "AvaliacaoTec_APICore.Business/1.0.0": {
+        "dependencies": {
+          "AvaliacaoTec_APICore.Data.Structure": "1.0.0"
+        },
+        "runtime": {
+          "AvaliacaoTec_APICore.Business.dll": {}
+        }
+      },
+      "AvaliacaoTec_APICore.Data.Structure/1.0.0": {
+        "dependencies": {
+          "AvaliacaoTec_APICore.Library": "1.0.0"
+        },
+        "runtime": {
+          "AvaliacaoTec_APICore.Data.Structure.dll": {}
+        }
+      },
+      "AvaliacaoTec_APICore.Library/1.0.0": {
+        "runtime": {
+          "AvaliacaoTec_APICore.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvaliacaoTec_APICore.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AvaliacaoTec_APICore.Data.Structure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AvaliacaoTec_APICore.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

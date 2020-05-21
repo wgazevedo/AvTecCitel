@@ -1,0 +1,11 @@
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.deps.json
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\bin\Release\netcoreapp2.2\AvaliacaoTec_APICore.Library.pdb
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.csprojAssemblyReference.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.AssemblyInfoInputs.cache
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.AssemblyInfo.cs
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.csproj.CopyComplete
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.dll
+C:\Users\wellington.azevedo\source\repos\AvaliacaoTec_APICore\AvaliacaoTec_APICore.Data.Structure\obj\Release\netcoreapp2.2\AvaliacaoTec_APICore.Data.Structure.pdb
