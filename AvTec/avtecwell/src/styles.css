@@ -20,26 +20,31 @@ body {
     text-align: center;
 
     background: #599acf;
-    background: -moz-linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
-    background: -webkit-linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
-    background: linear-gradient(60deg, #599acf 0%, #b1b0b9 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#599acf', endColor='#b1b0b9')
+    background: -moz-linear-gradient(60deg, #fcfcf2 0%, #fff 100%);
+    background: -webkit-linear-gradient(60deg, #fcfcf2 0%, #fff 100%);
+    background: linear-gradient(60deg, #fcfcf2 0%, #fff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcf2', endColor='#fff')
+}
+
+td{
+    padding: 5px !important;
 }
 
 button{
     cursor: pointer;
 }
 
+.btn{
+    background: transparent;
+}
+
 .title{
-    font-family: 'Dancing Script', cursive;
-    color: #fff;
+    color: #000;
     font-size: 4em;
-    text-shadow: 3px 5px #000;
 }
 
 .button{
-    border: none;
-    color: #fff;
+    color: #000;
     border-radius: 10px;
     font-size: 1em;
 }
