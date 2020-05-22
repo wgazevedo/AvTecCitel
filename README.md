@@ -1,4 +1,4 @@
-# Avaliação Tecnica Sitel
+# Avaliação Tecnica
 
 Avaliação técnica em .Net Core + Angular 8
 
