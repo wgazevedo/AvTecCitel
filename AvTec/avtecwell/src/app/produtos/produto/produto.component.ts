@@ -10,7 +10,7 @@ import { CategoriaService } from 'src/app/shared/categoria.service';
 })
 export class ProdutoComponent implements OnInit {
 
-  constructor(private service : ProdutoService, private servicecat : CategoriaService) { }
+  constructor(public service : ProdutoService, public servicecat : CategoriaService) { }
 
   ngOnInit() {
     this.resetForm();

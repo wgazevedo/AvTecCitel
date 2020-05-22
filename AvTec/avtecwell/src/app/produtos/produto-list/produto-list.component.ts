@@ -9,7 +9,7 @@ import { Produto } from 'src/app/shared/produto.model';
 })
 export class ProdutoListComponent implements OnInit {
 
-  constructor(private service : ProdutoService) { }
+  constructor(public service : ProdutoService) { }
 
   ngOnInit() {
     this.service.refreshList();

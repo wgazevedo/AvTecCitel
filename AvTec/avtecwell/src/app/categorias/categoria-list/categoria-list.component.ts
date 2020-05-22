@@ -9,7 +9,7 @@ import { Categoria } from 'src/app/shared/categoria.model';
 })
 export class CategoriaListComponent implements OnInit {
 
-  constructor(private service : CategoriaService) { }
+  constructor(public service : CategoriaService) { }
 
   ngOnInit() {
     this.service.refreshList();
